@@ -1,2 +1,2 @@
 # web-sockets 
-Courtesy github.com/iamshaunjp
+Courtesy: github.com/iamshaunjp
